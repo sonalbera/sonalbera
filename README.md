@@ -9,14 +9,14 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Android/Web developer with an interest in Competitive Programming</h3>
 <h3 align="center">Bachelor in Engineering, Information Technology (Batch of 2K22) from DTU aka DCE.</h3>
 
 
 
 - 🔭 I’m currently working on **Android in Kotlin**
 - 🌱 I’m currently learning ... **A lot of stuffs...**
-- 💬 Ask me about ... **Web Develpoment / Android**
+- 💬 Ask me about ... **DS Algo/ Web Develpoment / Android**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Tech Geek**❤
 - 📫 How to reach me ? -- **sonalbera2003@gmail.com**
