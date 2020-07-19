@@ -32,7 +32,7 @@
 
 <img src="dino.gif"/>
 
-⭐️ From [Sonal Bera](https://github.com/sonalbera) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+<&nbsp; &nbsp;/>⭐️ From [Sonal Bera](https://github.com/sonalbera) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 
 
 
