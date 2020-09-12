@@ -14,11 +14,11 @@
 
 
 
-- 🔭 I’m currently working on **Android in Kotlin**
-- 🌱 I’m currently learning ... **A lot of stuffs...**
+- 🔭 I’m currently working on **A lot of stuffs !!**
+- 🌱 I’m currently learning ... **way lot more stuffs...**
 - 💬 Ask me about ... **DS Algo/ Web Develpoment / Android**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Tech Geek**❤
+- ⚡ Fun fact ... **Tech Geek **❤
 - 📫 How to reach me ? -- **sonalbera2003@gmail.com**
 
 <br/>
