@@ -9,14 +9,14 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Android/Web developer with an interest in Competitive Programming</h3>
-<h3 align="center">Bachelor in Engineering, Information Technology (Batch of 2K22) from DTU aka DCE.</h3>
+<h3 align="center">A passionate tech enthusiast with an interest in learning new stuffs</h3>
+<h3 align="center">Currently pursuing Bachelors in Engineering, Information Technology (Batch of 2K22) from DTU aka DCE.</h3>
 
 
 
 - 🔭 I’m currently working on **A lot of stuffs !!**
 - 🌱 I’m currently learning ... **way lot more stuffs...**
-- 💬 Ask me about ... **DS Algo/ Web Develpoment / Android**
+- 💬 Ask me about ... **DS Algo/ Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Tech Geek **❤
 - 📫 How to reach me ? -- **sonalbera2003@gmail.com**
@@ -35,7 +35,7 @@
 <a href=https://instagram.com/sonal_sb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sonal_sb" height="40" width="40" /></a>
 </p>
 
-<img src="dino.gif"/>
+<img src="dino.gif" alt="Still loading.... :-(" />
 
 ⭐️ From [Sonal Bera](https://github.com/sonalbera) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 
