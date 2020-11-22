@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">A passionate tech enthusiast with an interest in learning new stuffs</h3>
-<h3 align="center">Currently pursuing Bachelors in Engineering, Information Technology (Batch of 2K22) from DTU aka DCE.</h3>
+<h3 align="center">Currently pursuing Bachelors in Engineering, Information Technology (Batch of 2K22) from DTU ( DCE ).</h3>
 
 
 
