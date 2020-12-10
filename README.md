@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, It's Sonal Bera here</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sonalbera/">
+  <!-- <a href="https://www.linkedin.com/in/sonalbera/">
     <img src="https://img.shields.io/badge/Linkedin-Sonal%20Bera-brightgreen">
-  </a>
+  </a>-->
   
   <a href="https://www.instagram.com/sonal_sb/">
     <img src="https://img.shields.io/badge/Instagram-Sonal%20Bera-orange">
@@ -19,7 +19,7 @@
 - 💬 Ask me about ... **DS Algo/ Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Tech Geek **❤
-- 📫 How to reach me ? -- **sonalbera2003@gmail.com**
+<!--- 📫 How to reach me ? -- **sonalbera2003@gmail.com**-->
 
 <br/>
 <br/>
