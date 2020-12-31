@@ -1,4 +1,4 @@
-![Sonal Bera Banner](https://raw.githubusercontent.com/sonalbera/sonalbera/master/assets/sonal.png)
+<!--![Sonal Bera Banner](https://raw.githubusercontent.com/sonalbera/sonalbera/master/assets/sonal.png)-->
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sonal Bera</h2>
 
