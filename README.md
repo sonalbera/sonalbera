@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Wed Development, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Photography and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at sonalbera2003@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sonalbera2003@gmail.com! I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/13TdQOXzAb38Ip7SeszZvTn2THQl9kGHg/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!-->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
