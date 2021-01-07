@@ -46,7 +46,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Want to Connect?
 
 <p align="center">
 <!--<a href="https://www.sonalbera.tech"><img src="https://img.shields.io/badge/-sonalbera.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
