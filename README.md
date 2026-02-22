@@ -6,7 +6,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology at Delhi Technological University\
+🎓 &nbsp;I'm currently pursuing MBA at NMIMS Mumbai\
+🎓 &nbsp;I've done my B.Tech in Information Technology at Delhi Technological University\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Wed Development, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Photography and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -15,7 +16,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-
+<!--
 ### 🛠 &nbsp;Tech Stacks
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -47,6 +48,7 @@
 </a>
 </p>
 
+-->
 ### 🤝🏻 &nbsp;Want to Connect?
 
 <p align="center">
